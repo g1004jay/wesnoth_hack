@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Gold"</Description>
+      <LastState Value="75" RealAddress="09F93344"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x17EECB8 + 0x60</Address>
+      <Offsets>
+        <Offset>0x4</Offset>
+        <Offset>0xA90</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
