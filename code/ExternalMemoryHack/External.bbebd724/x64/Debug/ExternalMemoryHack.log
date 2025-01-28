@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\g1004\dev\wesnoth\code\ExternalMemoryHack\main.cpp(17,37): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\g1004\dev\wesnoth\code\ExternalMemoryHack\main.cpp(19,37): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\g1004\dev\wesnoth\code\ExternalMemoryHack\main.cpp(23,38): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  ExternalMemoryHack.vcxproj -> C:\Users\g1004\dev\wesnoth\code\ExternalMemoryHack\x64\Debug\ExternalMemoryHack.exe
