@@ -52,6 +52,8 @@ BenchmarkDotNet.Artifacts/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+DocumentLayout.json
+DocumentLayout.backup.json
 **/Properties/launchSettings.json
 
 # StyleCop
@@ -78,6 +80,7 @@ StyleCopReport.xml
 *.tmp
 *.tmp_proj
 *.log
+*.tlog
 *.vspscc
 *.vssscc
 .builds
